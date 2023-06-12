@@ -1,4 +1,7 @@
+---
 username: chinmay
+
+password: changeme
 
 shell: /bin/bash
 
