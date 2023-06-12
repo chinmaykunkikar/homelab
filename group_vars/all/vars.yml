@@ -1,0 +1,6 @@
+username: chinmay
+packages:
+  - vim
+  - htop
+  - neofetch
+  - speedtest-cli
